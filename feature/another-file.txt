@@ -1,3 +1,5 @@
 Another file is created in the feature-1 branch 
 
 This file is modified locally
+
+This line is added in feature-2 branch
