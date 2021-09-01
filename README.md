@@ -1,4 +1,4 @@
 # first-Grepo
 First Github repository. Learn new things.
 
-README.md file is modified. -> This file is modified locally as well.
+This file is modified to revert the merge conflict and is ready to merge.
